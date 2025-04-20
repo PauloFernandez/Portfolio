@@ -14,10 +14,7 @@ html {
 /* seccion inicio */
 
 #inicio {
-    background: linear-gradient( rgba(0, 0, 0, .7), rgba(0, 0, 0, .7)), url("../img/web-developer-wallpaper.png");
-    background-size: cover;
-    background-position: center center;
-    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.910);
 }
 
 #inicio .contenido header {
@@ -37,9 +34,10 @@ html {
     padding: 10px 20px;
 }
 
-#inicio .contenido header .contenido-header h1 {
-    text-align: center;
-    color: #41ec58;
+#inicio .contenido header .contenido-header .logo {
+    width: 70px;
+    height: 70px;
+    display: flex;
 }
 
 #inicio .contenido header .contenido-header nav ul {
@@ -57,7 +55,7 @@ html {
 }
 
 #inicio .contenido header .contenido-header nav ul li a:hover {
-    color: #41ec58;
+    color: #e2aa32ef;
 }
 
 #inicio .contenido header .contenido-header .redes a {
@@ -70,64 +68,11 @@ html {
 }
 
 #inicio .contenido header .contenido-header .redes a:hover {
-    color: #41ec58;
+    color: #e2aa32ef;
 }
 
 #inicio .contenido header .contenido-header .seleccionado {
-    color: #41ec58;
-}
-
-#inicio .contenido .presentacion {
-    max-width: 1100px;
-    height: 100vh;
-    margin: auto;
-    color: #fff;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-}
-
-#inicio .contenido .presentacion .bienvenida {
-    font-size: 1em;
-    margin-bottom: 20px;
-    text-transform: uppercase;
-    letter-spacing: 5px;
-}
-
-#inicio .contenido .presentacion h2 {
-    font-size: 3.4375em;
-    margin-bottom: 25px;
-    text-align: center;
-}
-
-#inicio .contenido .presentacion h2 span {
-    font-size: 1.5625em;
-    color: #41ec58;
-}
-
-#inicio .contenido .presentacion .descripcion {
-    max-width: 700px;
-    margin: 25px auto;
-    font-size: 1.125em;
-    text-align: center;
-}
-
-#inicio .contenido .presentacion a {
-    text-decoration: none;
-    display: inline-block;
-    margin: 25px;
-    padding: 20px 25px;
-    border: 2px solid #fff;
-    border-radius: 50px;
-    color: #fff;
-    font-weight: bold;
-    text-transform: uppercase;
-    transition: .5s;
-}
-
-#inicio .contenido .presentacion a:hover {
-    background-color: #fc2b2b;
+    color: #e2aa32ef;
 }
 
 #icono-nav {
@@ -181,7 +126,7 @@ html {
 }
 
 #sobremi .sobremi h2 span {
-    color: #41ec58;
+    color: #e7a10aef;
 }
 
 #sobremi .sobremi h3 {
@@ -413,7 +358,7 @@ footer a {
 }
 
 footer .redes a:hover {
-    color: #41ec58;
+    color: #e2aa32ef;
 }
 
 

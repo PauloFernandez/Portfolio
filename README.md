@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/71606159/162444299-541a3791-73d4-463e-a716-95222399df00.jpg" width="100%" height="300px" />
 
 # Descripcion
-Este es un portafolio personal creado utilizando HTML, CSS y un pequeño fragmento de JavaScript. En él, muestro una serie de proyectos back-end en los que he trabajado, reflejando mi experiencia y habilidades en desarrollo web, especialmente en el ámbito **back-end**. Este portafolio está diseñado para resaltar mi enfoque en el desarrollo eficiente y escalable de aplicaciones.
+Este portafolio está diseñado para resaltar mi enfoque en el desarrollo eficiente y escalable de aplicaciones, fue creado utilizando HTML, CSS y un pequeño fragmento de JavaScript. En él, muestro una serie de proyectos back-end en los que he trabajado, reflejando mi experiencia y habilidades en el desarrollo web, especialmente en el ámbito **back-end**.
 
 # Autor
 Paulo Fernández
