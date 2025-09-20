@@ -10,7 +10,7 @@ Soy un **desarrollador web back-end** con experiencia en el uso de tecnologías 
 
 ## 📬 Conéctate conmigo
 
-- **Correo electrónico**: [paulofernandez1981@hotmail.com](mailto:paulofernandez1981@hotmail.com)
+- **Correo electrónico**: [paulofernandez1981@gmail.com](mailto:paulofernandez1981@gmail.com)
 - **LinkedIn**: [Paulo Fernández](https://linkedin.com/in/paulofernández)
 - **Discord**: [paulofernandez5947](https://discord.com/channels/@me/1217897180367425617)
 
@@ -18,5 +18,5 @@ Soy un **desarrollador web back-end** con experiencia en el uso de tecnologías 
 
 Puedes ver una demostración en vivo de mi portafolio y proyectos accediendo a los siguientes enlace:
 * [Porfolio_web](https://paulofernandez.github.io/porfolio/)
-* [Fixture]
+* [Fixture](https://fixture.kesug.com)
 
