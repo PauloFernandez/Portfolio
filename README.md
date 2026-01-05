@@ -1,4 +1,4 @@
-<img src="https://github.com/PauloFernandez/Portfolio/blob/main/img/BannerPauloDev.png" width="100%" height="350px"/>
+<img src="https://github.com/PauloFernandez/Portfolio/blob/main/screenshots/BannerPauloDev.png" width="100%" height="350px"/>
 
 # 💼 Portfolio – Paulo Fernández
 
@@ -119,7 +119,7 @@ Cada proyecto cuenta (o contará) con una carpeta `/screenshots` para documentar
 ---
 
 ## 📄 CV
-📥 **Descargar CV:** `./pdf/CV_Developer.pdf`
+📥 **Descargar CV:** `CV_Developer.pdf`
 
 ---
 
