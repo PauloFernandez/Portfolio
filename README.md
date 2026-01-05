@@ -119,7 +119,7 @@ Cada proyecto cuenta (o contará) con una carpeta `/screenshots` para documentar
 ---
 
 ## 📄 CV
-📥 **Descargar CV:** `./img/CV_Developer.pdf`
+📥 **Descargar CV:** `./pdf/CV_Developer.pdf`
 
 ---
 
