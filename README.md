@@ -130,4 +130,3 @@ Cada proyecto cuenta (o contará) con una carpeta `/screenshots` para documentar
 ---
 
 ⭐ *Este portfolio está en constante evolución, reflejando mi crecimiento como desarrollador backend.*
-
