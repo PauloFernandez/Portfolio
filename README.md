@@ -1,132 +1,64 @@
-<img src="https://github.com/PauloFernandez/Portfolio/blob/main/screenshots/BannerPauloDev.png" width="100%" height="350px"/>
+# 💼 Portfolio – Backend Developer Junior
 
-# 💼 Portfolio – Paulo Fernández
+<p align="center">
+  <img src="https://github.com/PauloFernandez/Portfolio/blob/main/screenshots/BannerPauloDev.png" width="100%" height="350px"/>
+</p>
 
-🎯 **Backend Developer Junior | PHP • Laravel • MySQL**  
-📍 Uruguay | Abierto a oportunidades **Backend / PHP / Laravel**
+## 👋 Hola, soy **Paulo Fernández**
+Soy **Backend Developer Junior** especializado en **PHP y Laravel**, con experiencia práctica en aplicaciones web, autenticación de usuarios, roles, permisos y bases de datos SQL.
 
----
-
-## 👋 Sobre este portfolio
-Este repositorio contiene mi **portfolio profesional**, donde presento proyectos reales y en desarrollo enfocados principalmente en **backend con PHP y Laravel**.
-
-El objetivo del portfolio es demostrar:
-- Capacidad para construir aplicaciones reales
-- Buenas prácticas backend (MVC, roles, autenticación, APIs)
-- Evolución técnica progresiva (monolito → API)
+En este portfolio presento mis mejores proyectos backend, enfocados en resolver problemas reales y alineados con mi intención de inserción laboral.
 
 ---
 
-## 🧠 Perfil profesional
-Soy **Desarrollador Back-End Junior** especializado en **Laravel**, con experiencia práctica desarrollando aplicaciones web completas, aplicando autenticación, roles y permisos, bases de datos SQL, Docker y despliegue en producción.
+## 🚀 Qué vas a encontrar
+🔹 Resume profesional y stack técnico  
+🔹 Mis proyectos principales (terminados y en desarrollo)  
+🔹 Enlaces a repositorios y demos  
+🔹 Mi CV para descargar
 
-Busco mi **primera oportunidad laboral como Backend Developer**, con foco en buenas prácticas, código limpio y aprendizaje continuo.
+---
+
+## 📂 Estructura del proyecto
+Este repositorio contiene:
+
+    📌 index.html → Sitio de portfolio público
+    📌 css/ → Estilos de la web
+    📌 screenshots/ → Capturas específicas de proyectos
+    📌 CV_Developer_Paulo_Fernandez.pdf → Mi CV actualizado
+    📌 certificaciones/ → Diplomas relevantes (SQL, Git/GitHub, etc.)
+    📌 README.md → Este archivo
 
 ---
 
 ## 🛠️ Stack Tecnológico
+Este portfolio fue desarrollado con:
 
-**Backend**
-- PHP
-- Laravel
-- Arquitectura MVC
-- Autenticación, roles y permisos
-- REST APIs (en progreso)
-
-**Base de datos**
-- MySQL / MariaDB
-
-**Frontend (base)**
-- HTML
-- CSS
-- Bootstrap
-
-**DevOps / Herramientas**
-- Git & GitHub
-- Docker
-- GitHub Actions (CI/CD)
+- **HTML5, CSS3, Bootstrap**
+- Estructura pensada para backend Devs
 
 ---
 
-## 📌 Proyectos Destacados
-
-### 🏆 Gestión de Torneos de Fútbol (Laravel)
-📂 **Repositorio:** https://github.com/PauloFernandez/Torneos
-
-Aplicación web desarrollada en **Laravel** para la administración integral de torneos de fútbol.
-
-**Qué resuelve**
-- Gestión completa de torneos, equipos y partidos
-- Control de acceso mediante roles
-- Panel administrativo y vistas públicas
-
-**Roles implementados**
-- **Administrador**: gestión total del sistema
-- **Usuario**: gestión operativa desde panel
-- **Jugador**: acceso exclusivo a resultados y estadísticas del torneo que participa
-
-**Tecnologías**
-- Laravel · PHP · MySQL · Tailwind CSS
-
-🖼️ *Screenshots disponibles en el repositorio*
+## 🔗 Ver portfolio en vivo
+➡️ https://paulofernandez.github.io/Portfolio  
 
 ---
 
-### 💆 Sistema de Gestión – Centro Estético (Laravel) *(En desarrollo)*
-📌 **Estado:** Planificado / En construcción
+## 📕 Certificaciones
+A continuación algunos cursos / certificaciones que respaldan mis conocimientos:
 
-Proyecto basado en una **necesidad real**, desarrollado en **Laravel**, tomando como referencia un sistema en PHP puro y adaptándolo a un framework moderno.
+📄 [SQL Certificate](certificaciones/diploma-SQL.pdf)  
+📄 [Git & GitHub Certificate](certificaciones/diploma-Git-GitHub.pdf)  
+📄 [UTU Diploma](certificaciones/Diploma-UTU.pdf)
 
-**Objetivos técnicos**
-- Gestión de clientes y servicios
-- Sistema de turnos
-- Calendario web interactivo para visualización de horarios
-- Adaptación de lógica PHP a arquitectura Laravel
-
-**Desafíos técnicos**
-- Implementación de calendario
-- Diseño de arquitectura desde cero
-- Funcionalidades no contempladas en el tutorial base
-
-🔧 *Repositorio y demo se agregarán próximamente*
-
----
-
-### 🔌 API Backend Laravel + Vue *(En desarrollo)*
-📌 **Estado:** Planificado
-
-Proyecto educativo basado en un tutorial de **Ademass**, enfocado en arquitectura **API REST**.
-
-**Características**
-- Backend en Laravel devolviendo respuestas JSON
-- Frontend en Vue consumiendo la API
-- Separación total frontend / backend
-
-**Objetivo personal**
-- Transición de aplicaciones monolíticas a APIs
-- Primer proyecto real consumiendo API desde frontend
-
-🧩 *Repositorio y documentación se agregarán próximamente*
-
----
-
-## 📸 Screenshots
-Cada proyecto cuenta (o contará) con una carpeta `/screenshots` para documentar visualmente:
-- Paneles
-- Funcionalidades principales
-- Vistas clave
-
----
-
-## 📄 CV
-📥 **Descargar CV:** `CV_Developer.pdf`
+> *Estas certificaciones respaldan mi compromiso de aprendizaje continuo.*
 
 ---
 
 ## 📫 Contacto
-- 📧 Email: paulofernandez1981@gmail.com
-- 💻 GitHub: https://github.com/PauloFernandez
+📧 paulofernandez1981@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/paulofernandez
 
 ---
 
-⭐ *Este portfolio está en constante evolución, reflejando mi crecimiento como desarrollador backend.*
+⭐ Si quieres ver mis repositorios más relevantes, **mirá también mi perfil GitHub**.
